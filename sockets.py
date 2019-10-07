@@ -1,5 +1,4 @@
-import socket
-import sys
+kimport sys
 
 #Creating a socket
 
